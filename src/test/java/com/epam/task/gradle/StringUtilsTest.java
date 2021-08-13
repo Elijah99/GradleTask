@@ -7,8 +7,7 @@ public class StringUtilsTest {
 
     @Test
     void testShouldReturnTrueWhenNumberPositive() {
-        StringUtils utils = new StringUtils();
-        assertTrue(utils.isPositiveNumber("11"));
+        assertTrue(StringUtils.isPositiveNumber("11"));
 
     }
 

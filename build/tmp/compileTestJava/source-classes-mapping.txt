@@ -1,2 +1,0 @@
-com.epam.mentoring.task.gradle/StringUtilsTest.java
- com.epam.mentoring.task.gradle.StringUtilsTest

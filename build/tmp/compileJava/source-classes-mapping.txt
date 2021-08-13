@@ -1,2 +1,0 @@
-com/epam/task/gradle/StringUtils.java
- com.epam.task.gradle.StringUtils
